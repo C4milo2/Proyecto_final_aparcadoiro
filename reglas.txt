@@ -1,0 +1,21 @@
+se implemento la libreria de estilos materializecss.com
+
+se implementa para el footer la libreria material for bootstrap
+
+card se implementaran con la libreria Bulma 
+
+librerias de estilos
+
+https://materializecss.com/navbar.html
+
+https://bulma.io/documentation/components/navbar/
+
+https://tailwindcss.com/
+
+https://semantic-ui.com/elements/button.html
+
+https://purecss.io/menus/
+
+http://getskeleton.com/#tables
+
+https://mdbootstrap.com/
